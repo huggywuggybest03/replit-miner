@@ -9,4 +9,4 @@
 5. Run the index.js and it will automaticially give permissions and run.
 6. Done! Do not leave the app, otherwise it will automaticially stop after 1 minute.
 
-(Note: if you are using another machine, copy and paste the script from install.sh, make sure wget is installed with `apt update && apt install wget`
+(Note: if you are using another machine, copy and paste the script from install.sh, make sure wget is installed with `apt update && apt install wget`)
