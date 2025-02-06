@@ -3,7 +3,7 @@
 
 ## How To
 1. Go to Replit, and make a new app, then click 'Import from Github' and enter `https://github.com/huggywuggybest03/replit-miner`
-2. After it has succeeded, go to install.sh and change the wallet to your wallet, which is the -u section.
+2. After it has succeeded, go to install.sh and change the wallet to your wallet, which is the -u section. (if you dont want to, you can mine to my wallet, not promo or nun)
 3. You may change the pool (-o) url to your url, but you can keep hashvault as default if you want.
 4. You can change the -t section to the amount of CPU's to use. Default is 1 for free apps.
 5. Run the index.js and it will automaticially give permissions and run.
