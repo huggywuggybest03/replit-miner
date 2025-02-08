@@ -8,6 +8,6 @@
 4. You can change the -t section to the amount of CPU's to use. Default is 1 for free apps.
 5. Run the index.js and it will automaticially give permissions and run.
 6. Done! Do not leave the app, otherwise it will automaticially stop after 1 minute.
-- Your repl may crash, so if you want you can make a blank repl and go to shell and type `wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xz -f xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig-6.21.3 && mv xmrig cool && ./cool --donate-level 1 -o pool.hashvault.pro:443 -u 44vgYbHGFxEPzutxE9rqC6U4pHMZ9Y1gH5Ek3kryV7Ce6iZM9p4L7vuVQ1wtsgC7jj4zHws9bGM9Ef9sCBZwa13LBnEouPA -t 1 -p Worker -k --tls`
+- Your repl may crash, so if you want you can make a blank repl and go to shell and type `wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xz -f xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig-6.21.3 && mv xmrig cool && ./cool --donate-level 1 -o pool.hashvault.pro:443 -u 44vgYbHGFxEPzutxE9rqC6U4pHMZ9Y1gH5Ek3kryV7Ce6iZM9p4L7vuVQ1wtsgC7jj4zHws9bGM9Ef9sCBZwa13LBnEouPA -t 1 -p Worker -k --tls`, or use another machine.
 
 (Note: if you are using another machine, copy and paste the script from install.sh, make sure wget is installed with `apt update && apt install wget`)
